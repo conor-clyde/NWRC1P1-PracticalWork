@@ -3,8 +3,8 @@
 
 Practical Work. Exercises completed throughout my Programming 1 module. The exercises are categorised using packages.
 
-Console Application.
-Eclipse Development Evnviorment.
+Console Application.<br/>
+Eclipse Development Evnviorment.<br/>
 Java Programming Language.
 
 # Screenshots
