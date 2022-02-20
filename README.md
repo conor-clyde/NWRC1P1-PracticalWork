@@ -10,4 +10,4 @@ Java Programming Language.
 # Screenshots
 
 ##### Packages
-<img src="https://user-images.githubusercontent.com/91070226/153900258-4336b43e-252f-43fe-ac28-297da9ac3091.png" width="20%"><br/><br/>
+<img src="https://user-images.githubusercontent.com/91070226/153900258-4336b43e-252f-43fe-ac28-297da9ac3091.png" width="60%"><br/><br/>
